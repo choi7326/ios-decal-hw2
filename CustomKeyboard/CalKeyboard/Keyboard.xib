@@ -60,139 +60,6 @@
                         <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
                     </userDefinedRuntimeAttributes>
                 </button>
-                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9rz-vM-mD6">
-                    <rect key="frame" x="104" y="156" width="167" height="36"/>
-                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
-                    <constraints>
-                        <constraint firstAttribute="height" constant="36" id="9cg-HV-w1l"/>
-                    </constraints>
-                    <state key="normal" title="space">
-                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </state>
-                    <userDefinedRuntimeAttributes>
-                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
-                            <integer key="value" value="6"/>
-                        </userDefinedRuntimeAttribute>
-                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
-                    </userDefinedRuntimeAttributes>
-                </button>
-                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="j4g-gf-fge">
-                    <rect key="frame" x="8" y="5" width="102" height="43"/>
-                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
-                    <state key="normal" title="((+_+))">
-                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </state>
-                    <userDefinedRuntimeAttributes>
-                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
-                            <integer key="value" value="6"/>
-                        </userDefinedRuntimeAttribute>
-                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
-                    </userDefinedRuntimeAttributes>
-                </button>
-                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xsg-qm-17w">
-                    <rect key="frame" x="131" y="5" width="102" height="43"/>
-                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
-                    <state key="normal" title="(゜-゜)">
-                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </state>
-                    <userDefinedRuntimeAttributes>
-                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
-                            <integer key="value" value="6"/>
-                        </userDefinedRuntimeAttribute>
-                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
-                    </userDefinedRuntimeAttributes>
-                </button>
-                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Lgg-JM-TvE">
-                    <rect key="frame" x="131" y="56" width="102" height="42"/>
-                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
-                    <state key="normal" title="(゜_゜)">
-                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </state>
-                    <userDefinedRuntimeAttributes>
-                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
-                            <integer key="value" value="6"/>
-                        </userDefinedRuntimeAttribute>
-                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
-                    </userDefinedRuntimeAttributes>
-                </button>
-                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rGu-s6-zC5">
-                    <rect key="frame" x="131" y="106" width="102" height="42"/>
-                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
-                    <state key="normal" title="(゜_゜&gt;)">
-                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </state>
-                    <userDefinedRuntimeAttributes>
-                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
-                            <integer key="value" value="6"/>
-                        </userDefinedRuntimeAttribute>
-                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
-                    </userDefinedRuntimeAttributes>
-                </button>
-                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TAO-ch-zXi">
-                    <rect key="frame" x="256" y="5" width="102" height="43"/>
-                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
-                    <state key="normal" title="(゜レ゜)">
-                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </state>
-                    <userDefinedRuntimeAttributes>
-                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
-                            <integer key="value" value="6"/>
-                        </userDefinedRuntimeAttribute>
-                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
-                    </userDefinedRuntimeAttributes>
-                </button>
-                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WjF-VL-chO">
-                    <rect key="frame" x="256" y="56" width="102" height="42"/>
-                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
-                    <state key="normal" title="(゜.゜)">
-                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </state>
-                    <userDefinedRuntimeAttributes>
-                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
-                            <integer key="value" value="6"/>
-                        </userDefinedRuntimeAttribute>
-                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
-                    </userDefinedRuntimeAttributes>
-                </button>
-                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mEe-Ym-52j">
-                    <rect key="frame" x="256" y="106" width="102" height="42"/>
-                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
-                    <state key="normal" title="(゜゜)">
-                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </state>
-                    <userDefinedRuntimeAttributes>
-                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
-                            <integer key="value" value="6"/>
-                        </userDefinedRuntimeAttribute>
-                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
-                    </userDefinedRuntimeAttributes>
-                </button>
-                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lIR-8r-5aY">
-                    <rect key="frame" x="8" y="56" width="102" height="42"/>
-                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
-                    <state key="normal" title="(+o+)">
-                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </state>
-                    <userDefinedRuntimeAttributes>
-                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
-                            <integer key="value" value="6"/>
-                        </userDefinedRuntimeAttribute>
-                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
-                    </userDefinedRuntimeAttributes>
-                </button>
-                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IAC-9n-v9i">
-                    <rect key="frame" x="8" y="106" width="102" height="42"/>
-                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
-                    <state key="normal" title="(?_?)">
-                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </state>
-                    <userDefinedRuntimeAttributes>
-                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
-                            <integer key="value" value="6"/>
-                        </userDefinedRuntimeAttribute>
-                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
-                    </userDefinedRuntimeAttributes>
-                </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pjW-hM-HR0">
                     <rect key="frame" x="279" y="156" width="88" height="36"/>
                     <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
@@ -209,20 +76,189 @@
                         <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
                     </userDefinedRuntimeAttributes>
                 </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9rz-vM-mD6">
+                    <rect key="frame" x="104" y="156" width="167" height="36"/>
+                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="36" id="9cg-HV-w1l"/>
+                    </constraints>
+                    <state key="normal" title="space">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="6"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xsg-qm-17w">
+                    <rect key="frame" x="136" y="5" width="102" height="43"/>
+                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                    <state key="normal" title="(゜-゜)">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="6"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Lgg-JM-TvE">
+                    <rect key="frame" x="136" y="56" width="102" height="42"/>
+                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                    <state key="normal" title="(゜_゜)">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="6"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rGu-s6-zC5">
+                    <rect key="frame" x="136" y="106" width="102" height="42"/>
+                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                    <state key="normal" title="(゜_゜&gt;)">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="6"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TAO-ch-zXi">
+                    <rect key="frame" x="265" y="5" width="102" height="43"/>
+                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                    <state key="normal" title="(゜レ゜)">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="6"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WjF-VL-chO">
+                    <rect key="frame" x="265" y="56" width="102" height="42"/>
+                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                    <state key="normal" title="(゜.゜)">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="6"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mEe-Ym-52j">
+                    <rect key="frame" x="265" y="106" width="102" height="42"/>
+                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                    <state key="normal" title="(゜゜)">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="6"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="j4g-gf-fge">
+                    <rect key="frame" x="8" y="5" width="102" height="43"/>
+                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                    <state key="normal" title="((+_+))">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="6"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lIR-8r-5aY">
+                    <rect key="frame" x="8" y="56" width="102" height="42"/>
+                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                    <state key="normal" title="(+o+)">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="6"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IAC-9n-v9i">
+                    <rect key="frame" x="8" y="106" width="102" height="42"/>
+                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                    <state key="normal" title="(?_?)">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="6"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </button>
             </subviews>
             <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
             <constraints>
+                <constraint firstItem="lIR-8r-5aY" firstAttribute="width" secondItem="j4g-gf-fge" secondAttribute="width" id="2fB-YQ-zPd"/>
+                <constraint firstItem="mEe-Ym-52j" firstAttribute="trailing" secondItem="pjW-hM-HR0" secondAttribute="trailing" id="2rj-3h-Fhs"/>
                 <constraint firstAttribute="trailing" secondItem="pjW-hM-HR0" secondAttribute="trailing" constant="8" id="3L1-Ve-Z5k"/>
+                <constraint firstItem="rGu-s6-zC5" firstAttribute="centerX" secondItem="9rz-vM-mD6" secondAttribute="centerX" id="3PV-JG-HpA"/>
+                <constraint firstItem="lIR-8r-5aY" firstAttribute="top" secondItem="j4g-gf-fge" secondAttribute="bottom" constant="8" symbolic="YES" id="3Q1-C0-2ML"/>
+                <constraint firstItem="Xsg-qm-17w" firstAttribute="baseline" secondItem="j4g-gf-fge" secondAttribute="baseline" id="4CL-yL-rVK"/>
                 <constraint firstAttribute="trailing" secondItem="9rz-vM-mD6" secondAttribute="trailing" constant="104" id="5TR-Cj-r8e"/>
                 <constraint firstItem="ctm-QY-1ot" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="46" id="6Kh-0I-JjG"/>
                 <constraint firstAttribute="trailing" secondItem="ctm-QY-1ot" secondAttribute="trailing" constant="279" id="Ar8-sc-6hb"/>
+                <constraint firstItem="WjF-VL-chO" firstAttribute="height" secondItem="j4g-gf-fge" secondAttribute="height" id="E3C-LG-5ny"/>
+                <constraint firstItem="mEe-Ym-52j" firstAttribute="height" secondItem="j4g-gf-fge" secondAttribute="height" id="FdM-8m-dNN"/>
                 <constraint firstItem="9rz-vM-mD6" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="104" id="HnH-lb-jll"/>
                 <constraint firstAttribute="bottom" secondItem="9rz-vM-mD6" secondAttribute="bottom" constant="8" id="I73-Tx-QsE"/>
+                <constraint firstItem="Xsg-qm-17w" firstAttribute="leading" secondItem="j4g-gf-fge" secondAttribute="trailing" constant="26" id="IJe-qz-DIb"/>
+                <constraint firstItem="Lgg-JM-TvE" firstAttribute="height" secondItem="j4g-gf-fge" secondAttribute="height" id="J6W-UV-e2S"/>
                 <constraint firstAttribute="bottom" secondItem="pjW-hM-HR0" secondAttribute="bottom" constant="8" id="KjB-An-SN7"/>
+                <constraint firstItem="Xsg-qm-17w" firstAttribute="width" secondItem="j4g-gf-fge" secondAttribute="width" id="Nzu-Wj-dtE"/>
+                <constraint firstItem="lIR-8r-5aY" firstAttribute="height" secondItem="j4g-gf-fge" secondAttribute="height" id="OYX-Lq-NWK"/>
+                <constraint firstItem="IAC-9n-v9i" firstAttribute="leading" secondItem="gRt-12-JcF" secondAttribute="leading" id="Sun-9f-lUi"/>
+                <constraint firstItem="Lgg-JM-TvE" firstAttribute="baseline" secondItem="WjF-VL-chO" secondAttribute="baseline" id="XUs-Rx-wE7"/>
+                <constraint firstItem="j4g-gf-fge" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="5" id="YgQ-D1-n91"/>
+                <constraint firstItem="mEe-Ym-52j" firstAttribute="baseline" secondItem="rGu-s6-zC5" secondAttribute="baseline" id="Z7w-SV-QqO"/>
+                <constraint firstItem="WjF-VL-chO" firstAttribute="leading" secondItem="TAO-ch-zXi" secondAttribute="leading" id="ZX3-8O-The"/>
+                <constraint firstItem="WjF-VL-chO" firstAttribute="width" secondItem="j4g-gf-fge" secondAttribute="width" id="aIi-j0-qEc"/>
+                <constraint firstItem="TAO-ch-zXi" firstAttribute="width" secondItem="j4g-gf-fge" secondAttribute="width" id="b0d-vy-EdS"/>
+                <constraint firstItem="rGu-s6-zC5" firstAttribute="height" secondItem="j4g-gf-fge" secondAttribute="height" id="bXd-Ae-q0h"/>
                 <constraint firstItem="gRt-12-JcF" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="8" id="c0R-B9-6Ct"/>
                 <constraint firstItem="pjW-hM-HR0" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="279" id="gE5-QY-SGK"/>
+                <constraint firstItem="Lgg-JM-TvE" firstAttribute="width" secondItem="j4g-gf-fge" secondAttribute="width" id="gec-wb-NTg"/>
+                <constraint firstItem="IAC-9n-v9i" firstAttribute="width" secondItem="j4g-gf-fge" secondAttribute="width" id="gv1-Y2-fg5"/>
+                <constraint firstItem="Xsg-qm-17w" firstAttribute="height" secondItem="j4g-gf-fge" secondAttribute="height" id="huF-h7-uWa"/>
+                <constraint firstItem="IAC-9n-v9i" firstAttribute="baseline" secondItem="rGu-s6-zC5" secondAttribute="baseline" id="iXp-OF-2SM"/>
+                <constraint firstItem="IAC-9n-v9i" firstAttribute="height" secondItem="j4g-gf-fge" secondAttribute="height" id="j1j-gK-rBp"/>
+                <constraint firstItem="mEe-Ym-52j" firstAttribute="width" secondItem="j4g-gf-fge" secondAttribute="width" id="jSR-dB-Yb1"/>
+                <constraint firstItem="rGu-s6-zC5" firstAttribute="width" secondItem="j4g-gf-fge" secondAttribute="width" id="lZj-YL-tpZ"/>
+                <constraint firstItem="IAC-9n-v9i" firstAttribute="leading" secondItem="lIR-8r-5aY" secondAttribute="leading" id="lbO-W0-t0A"/>
                 <constraint firstAttribute="bottom" secondItem="gRt-12-JcF" secondAttribute="bottom" constant="8" id="mHM-Gy-QCU"/>
+                <constraint firstItem="lIR-8r-5aY" firstAttribute="leading" secondItem="j4g-gf-fge" secondAttribute="leading" id="mPn-TB-sX9"/>
+                <constraint firstItem="IAC-9n-v9i" firstAttribute="top" secondItem="lIR-8r-5aY" secondAttribute="bottom" constant="8" symbolic="YES" id="nQH-lK-ifq"/>
+                <constraint firstItem="gRt-12-JcF" firstAttribute="top" secondItem="IAC-9n-v9i" secondAttribute="bottom" constant="8" symbolic="YES" id="oYI-Ej-VXS"/>
                 <constraint firstAttribute="bottom" secondItem="ctm-QY-1ot" secondAttribute="bottom" constant="8" id="pSP-gp-Paq"/>
+                <constraint firstItem="TAO-ch-zXi" firstAttribute="height" secondItem="j4g-gf-fge" secondAttribute="height" id="qJE-CN-QQR"/>
+                <constraint firstItem="lIR-8r-5aY" firstAttribute="baseline" secondItem="Lgg-JM-TvE" secondAttribute="baseline" id="rC6-1n-K81"/>
+                <constraint firstItem="Lgg-JM-TvE" firstAttribute="leading" secondItem="rGu-s6-zC5" secondAttribute="leading" id="rgv-XB-ir2"/>
+                <constraint firstItem="Xsg-qm-17w" firstAttribute="baseline" secondItem="TAO-ch-zXi" secondAttribute="baseline" id="sLe-Le-Lue"/>
+                <constraint firstItem="Xsg-qm-17w" firstAttribute="leading" secondItem="Lgg-JM-TvE" secondAttribute="leading" id="vJB-87-VLX"/>
+                <constraint firstItem="mEe-Ym-52j" firstAttribute="leading" secondItem="WjF-VL-chO" secondAttribute="leading" id="xVB-18-85S"/>
             </constraints>
             <nil key="simulatedStatusBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
